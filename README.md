@@ -32,7 +32,7 @@ AI Assistant App is an intelligent voice-based assistant powered by **Machine Le
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/vinay-singh-dev/AI-Assistant-App.git
-   ```
+   ``` 
 2. **Open in Android Studio** and build the project.
 3. **Add API Keys**:
    - Obtain API keys from OpenAI / Google Dialogflow.
