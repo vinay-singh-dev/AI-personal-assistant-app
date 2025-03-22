@@ -11,7 +11,7 @@ AI Assistant App is an intelligent voice-based assistant powered by **Machine Le
 - 🔍 **Web Search Integration** – Searches the web for quick answers.
 - 📌 **Context Awareness** – Learns from previous interactions to enhance user experience.
 - 🎨 **Modern UI** – Intuitive and interactive user interface built with Jetpack Compose.
-
+ 
 ## 🏗 Tech Stack
 - **Programming Language**: Kotlin
 - **Architecture**: MVVM (Model-View-ViewModel)
