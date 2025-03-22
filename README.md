@@ -15,7 +15,7 @@ AI Assistant App is an intelligent voice-based assistant powered by **Machine Le
 ## 🏗 Tech Stack
 - **Programming Language**: Kotlin
 - **Architecture**: MVVM (Model-View-ViewModel)
-- **AI/ML Services**: OpenAI API / Google Dialogflow / TensorFlow Lite
+- **AI/ML Services**: OpenAI API / Google Dialogflow / TensorFlow Lite 
 - **Speech Recognition**: Android Speech API
 - **Networking**: Retrofit
 - **Database**: Room Database
