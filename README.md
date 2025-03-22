@@ -36,7 +36,7 @@ AI Assistant App is an intelligent voice-based assistant powered by **Machine Le
 2. **Open in Android Studio** and build the project.
 3. **Add API Keys**:
    - Obtain API keys from OpenAI / Google Dialogflow.
-   - Store them in `local.properties` or an environment file.
+   - Store them in `local.properties` or an environment file
 4. **Run the application** on an emulator or a real device.
 
 ## 🏗 Future Enhancements
