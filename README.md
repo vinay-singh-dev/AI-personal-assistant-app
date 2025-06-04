@@ -48,7 +48,7 @@ AI Assistant App is an intelligent voice-based assistant powered by **Machine Le
 ## 🙌 Contributing
 Contributions are welcome! Feel free to **fork** the repository and submit **pull requests**.
 
----
-Made with ❤️ by **Vinay Singh Baghel** 🚀
+
+
 
 
